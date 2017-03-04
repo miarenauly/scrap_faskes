@@ -1,3 +1,8 @@
+'''
+Author = mia (mia.renauly@dattabot.io)
+scrap data fasilitas pelayanan keehatan masyarakat
+'''
+
 import requests
 from mysql.connector import connect, Error
 from bs4 import BeautifulSoup
